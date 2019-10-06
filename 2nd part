@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>My Favorite Dish</title>
+</head>
+<body>
+  <h1>MY FAVORITE DISH AND HOW TO PREPARE IT</h1>
+  <P>
+    <H2>REASONS WHY I LIKE IT</H2>
+  
+    This dish is very delicious, have a nice smell that is irresistable.
+    The reason why I like this particular dish are many, here are few;
+    <ol>
+      <li>It is very easy to prepare</li>
+      <li>Not time consuming during preparation</li>
+      <li>Very delicious</li>
+      <li>It's nutritious contents</li>
+      <li>It is Yummy.</li>
+    </ol>
+  </P>
+  <p>
+  <ul><!-- This is a list of the ingredients needed to prepare the dish-->
+    <li>Onion</li>
+    <li>Egg</li>
+    <li>Tomato</li>
+    <li>Flour</li>
+    <li>Palm Oil</li>
+    <li>Water.</li>
+    <li>Seasoning.</li>
+  </ul> <!--The end of unordered list-->
+  </p>
+  <ol><!-- This is how to prepare the dish -->
+    <li>Pour Water in a bowl, then measure two cups of flour, and mix it with sufficient amount of water 🍞.</li>
+    <li>Add the eggs and mix thoroughly😋.</li>
+    <li>Slice the tomato and Onions very nicely and Put them all together😊.</li>
+    <li>Add seasoning😲</li>
+    <li>Fry with a Palm oil and Have a nice Meal😋.</li>
+  </ol>
+  <p><h3>HOW THE DISH SHOULD LOOK LIKE</h3></p>
+<p>It should look round, and have a reddish color with crusts at the round edge.
+Like the picture below. If served with chilled drink, even better.</p>
+  <p> <img src="https://i.imgur.com/Semk6De.jpg)" alt = "Flour Mill"> </p>
+</body>
+</html>
